@@ -1,0 +1,11 @@
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-color: #edf2f7;
+}
+
+main > .container {
+  padding: 60px 15px 0;
+  max-width: 48rem;
+  margin: 0 auto;
+}
