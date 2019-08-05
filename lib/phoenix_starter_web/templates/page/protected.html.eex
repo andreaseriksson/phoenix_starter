@@ -1,0 +1,6 @@
+<div class="card shadow">
+  <div class="card-body">
+    <h3 class="card-title">Secret stuff</h3>
+    <p>This should require a user to be logged in</p>
+  </div>
+</div>

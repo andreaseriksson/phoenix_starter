@@ -17,6 +17,7 @@ defmodule PhoenixStarterWeb.Router do
     pipe_through :browser
 
     get "/", PageController, :index
+    get "/protected", PageController, :protected
   end
 
   # Other scopes may use custom stacks.
